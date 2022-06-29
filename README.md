@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikimimi37
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning JavaScript and PHP
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
