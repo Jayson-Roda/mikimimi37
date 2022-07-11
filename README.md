@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mikimimi37
+- 👋 Hi, I’m Jayson Roda
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ with bootstrap 5
 
 <!---
 mikimimi37/mikimimi37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
